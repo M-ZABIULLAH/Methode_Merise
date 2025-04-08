@@ -1,4 +1,4 @@
-
+https://github.com/M-ZABIULLAH/Methode_Merise/blob/develop/M%C3%A9thode_Merise.png
 # Méthode Merise — تعریف و توضیح کامل
 
 ---
